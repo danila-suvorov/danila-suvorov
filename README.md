@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <div id="header" align="center">
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -19,7 +19,22 @@
 </h1>
 </div>
 
+### :man_technologist: About Me :
+I am a Product Analyst from Russia.
+- :telescope: I’m student of high school of economics.
 
+- :seedling: Exploring products.
+
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/dd6nila-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/dd6nila)
+ ### :hammer_and_wrench: Languages and Tools :
+ ![Python](https://img.shields.io/badge/Python-ffde57?style=for-the-badge&logo=python&logoColor=black)
+ ![sql](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=sql&logoColor=black)
+ ![A\B](https://img.shields.io/badge/A\B-lightgreen?style=for-the-badge&logo=sql&logoColor=black)
+ ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danila-suvorov&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danila-suvorov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **danila-suvorov/danila-suvorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
