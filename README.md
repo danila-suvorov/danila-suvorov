@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a Product Analyst from Russia.
-- :telescope: I’m student of high school of economics.
+- :telescope: I’m student of higher school of economics.
 
 - :seedling: Exploring products.
 
